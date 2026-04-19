@@ -1,0 +1,26 @@
+Pregunta 1:
+¿Cuál de las siguientes opciones describe mejor qué es la ciudadanía digital?
+
+B. El uso responsable de la tecnología para informarse, participar y compartir información de manera ética
+
+Pregunta 2:
+¿Cuál es la razón principal por la que es importante verificar la información antes de compartirla en internet?
+C. Para evitar difundir información falsa o engañosa
+
+Pregunta 3:
+¿Cuál de las siguientes opciones define mejor un algoritmo?
+B. Una lista de pasos ordenados para resolver un problema
+
+Pregunta 4:
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Si cuando verificamos un post, comentario o contenido con fuentes confiables y la compartimos lo estamos haciendo bien y participando de manera correcta, la verdad no encuentro relación con git que es una herramienta técnica para compartir proyectos de IT, es decir, irrelevantemente del contenido, sea ético, no ético, es gente participando. 
+
+Pregunta 5:
+
+buscar la información
+revisar la fuente
+confirmar la noticia
+leer mas allá del titular
+analiza fechas y contexto
+compartir con responsabilidad
