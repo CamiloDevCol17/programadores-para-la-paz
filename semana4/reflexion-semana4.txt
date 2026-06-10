@@ -1,0 +1,8 @@
+Considero que cuando las comunidades desarrollan sus propias herramientas con tecnologías 
+abiertas como Node.js, logran una verdadera independencia para resolver los problemas reales 
+de su entorno. Al no depender de plataformas privadas o licencias costosas, las iniciativas ciudadanas
+ pueden diseñar sistemas que se adapten exactamente a las necesidades de sus territorios, fomentando la participación 
+ y la organización local. Además, el código abierto democratiza el conocimiento, permitiendo que cualquier persona 
+ aprenda, colabore y mejore el software de forma colectiva. En definitiva, apropiarse de la tecnología nos permite dejar de ser simples 
+ consumidores para convertirnos en creadores de soluciones que fortalezcan el tejido social, generen oportunidades y construyan paz desde 
+ la base en nuestras propias comunidades.
