@@ -1,0 +1,10 @@
+Pruebas de rutas del servidor:
+
+1. http://localhost:3000
+Resultado: El navegador muestra el texto "Servidor activo". Esto confirma que la ruta principal o raíz ('/') funciona y responde correctamente.
+
+2. http://localhost:3000/saludo
+Resultado: El navegador muestra el texto "Hola comunidad". Esta es una ruta que devuelve un mensaje de texto predefinido.
+
+3. http://localhost:3000/mensaje/juan
+Resultado: El navegador muestra el texto "Hola juan". En esta ruta, el servidor lee el nombre ("juan") que escribimos en la URL y lo usa para devolver un saludo personalizado.
