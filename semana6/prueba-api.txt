@@ -1,0 +1,9 @@
+Al enviar la petición POST a http://localhost:3000/registro con los datos del usuario, el servidor procesa la información que llega en el cuerpo de la petición (req.body) gracias a express.json(). 
+
+Devuelve la siguiente respuesta en formato JSON confirmando la recepción exitosa:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
