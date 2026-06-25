@@ -1,0 +1,3 @@
+Al realizar una petición GET a http://localhost:3000/reportes, el servidor responde con el array 'reportes'. 
+Si no se han enviado datos, devuelve un array vacío []. Una vez realizados registros vía POST, 
+el servidor devuelve la lista completa de objetos registrados en memoria con su respectivo ID.
