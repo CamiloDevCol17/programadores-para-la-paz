@@ -1,0 +1,3 @@
+echo "1. Proteger contraseñas" > seguridad/buenas-practicas.txt
+echo "2. No compartir credenciales" >> seguridad/buenas-practicas.txt
+echo "3. Mantener software actualizado" >> seguridad/buenas-practicas.txt

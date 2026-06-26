@@ -1,0 +1,6 @@
+uname -a: Muestra información detallada del kernel, versión del sistema y arquitectura.
+whoami: Muestra el nombre de usuario con el que actualmente estamos logueados.
+
+Es útil conocer esta información al administrar un servidor para identificar 
+compatibilidades de software, verificar permisos de usuario, controlar 
+recursos y asegurar que el entorno sea el adecuado para las aplicaciones instaladas.
