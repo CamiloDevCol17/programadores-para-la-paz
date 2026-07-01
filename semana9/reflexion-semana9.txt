@@ -1,0 +1,10 @@
+Es fundamental que las plataformas tecnológicas comunitarias operen en 
+servidores estables y seguros para garantizar la disponibilidad continua 
+de los servicios. Cuando una comunidad depende de una herramienta digital 
+para organizarse o acceder a recursos, las caídas del sistema generan 
+desconfianza y rompen la comunicación. Además, la seguridad protege 
+los datos sensibles de los usuarios frente a posibles ataques o vulnerabilidades. 
+Un servidor bien configurado, con monitoreo y registros adecuados, permite 
+anticipar fallos y responder rápidamente a incidentes técnicos. En conclusión, 
+la estabilidad tecnológica se traduce directamente en confianza social, 
+fortaleciendo el impacto positivo de la plataforma en la comunidad.
