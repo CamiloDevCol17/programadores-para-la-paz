@@ -1,0 +1,13 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+Propósito: Esta entidad sirve para almacenar los detalles principales de las iniciativas o problemáticas que los ciudadanos deciden proponer en la plataforma, permitiendo que queden guardadas y visibles para el resto de la comunidad.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+Propósito: Esta entidad sirve para registrar cada respaldo individual que recibe una causa específica. A través del "causa_id" se relaciona con la iniciativa correspondiente, permitiendo al sistema contar cuántas personas la apoyan sin mezclar la información.

@@ -1,0 +1,5 @@
+Automatización de notificaciones con n8n y Telegram
+
+- Evento que activa la automatización: El sistema genera exitosamente el documento PDF de una petición luego de alcanzar la meta de apoyos.
+- Mensaje que se envía: “¡Objetivo alcanzado! Se ha generado automáticamente la petición formal para la causa recién completada. El documento PDF está listo en la plataforma para ser descargado y radicado.”
+- Información que no debe enviarse por seguridad: No se deben enviar en el mensaje de Telegram los nombres de los ciudadanos que apoyaron, números de cédula, teléfonos, direcciones, correos electrónicos, ni ningún dato personal que comprometa la privacidad de los participantes.
