@@ -1,0 +1,24 @@
+Entidad: Causa
+
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- titulo (Texto, Obligatorio)
+- descripcion (Texto, Obligatorio)
+- categoria (Texto)
+- fecha_creacion (Fecha/Hora, Por defecto actual)
+- estado (Texto, Ejemplo: "Activa", "Cerrada")
+
+Propósito:
+Almacenar de forma organizada las iniciativas o reclamos comunitarios que los usuarios proponen, permitiendo su consulta y filtrado en la interfaz pública.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- causa_id (Entero, Clave Foránea referenciando a Causa)
+- usuario_id (Entero, Clave Foránea referenciando al usuario que apoya)
+- fecha_apoyo (Fecha/Hora, Por defecto actual)
+
+Propósito:
+Registrar de manera única y estructurada qué usuarios respaldan cada iniciativa, evitando duplicaciones de votos y permitiendo calcular las métricas de participación.

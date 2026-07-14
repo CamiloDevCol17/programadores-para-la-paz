@@ -1,0 +1,10 @@
+Estructura de la Interfaz de Usuario (UI):
+
+1. Vista de causas disponibles:
+Una grilla visual o lista interactiva en la página de inicio que muestra tarjetas individuales para cada causa activa. Cada tarjeta expone únicamente el título, una descripción breve, la categoría y la fecha de creación, manteniendo la simplicidad visual.
+
+2. Formulario para crear una causa:
+Una sección o modal accesible solo para usuarios autenticados. Contiene campos de texto validados para el título, descripción de la problemática y categoría. Cuenta con un botón destacado de "Publicar Causa" que envía los datos al servidor de forma segura.
+
+3. Botón de apoyo y Contador:
+Cada tarjeta de causa incluye un botón interactivo con el icono de un "pulgar arriba" o "corazón" junto a un contador numérico visible. Al presionar el botón de apoyo, el contador se incrementa dinámicamente. El sistema deshabilita el botón si el usuario ya apoyó esa iniciativa para mantener la transparencia del proceso, garantizando que el usuario que apoya permanezca en el anonimato en la interfaz pública.
