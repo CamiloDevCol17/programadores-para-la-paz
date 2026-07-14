@@ -1,0 +1,10 @@
+Flujo simple de automatización (n8n + Telegram)
+
+¿Qué evento activa el flujo?
+El evento detonante es la recepción de un nuevo registro de incidencia a través de un formulario o base de datos comunitaria.
+
+¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje a un grupo o canal de coordinación diciendo: "Atención: Nuevo reporte registrado en el sistema de veeduría. Por favor, ingresar al panel de control para revisar los detalles del caso y asignar un responsable."
+
+¿Qué información no debería enviarse por seguridad?
+Bajo ninguna circunstancia se deben enviar a través de Telegram nombres completos reales, documentos de identidad (cédulas), direcciones exactas de residencia, números telefónicos personales, correos electrónicos ni ningún tipo de contraseña o token.

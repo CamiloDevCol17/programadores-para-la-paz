@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero las tareas 1 y 2 del backlog: El registro ciudadano de la incidencia y la alerta automática para el coordinador.
+
+¿Por qué son las más importantes?
+Porque representan el flujo central y crítico del sistema. Sin la capacidad de que el usuario reporte el problema no hay información con la cual trabajar, y sin la notificación inmediata al coordinador se pierde la oportunidad de tener una respuesta rápida, lo que invalidaría el propósito de la veeduría comunitaria. 
+
+¿Qué significa para ti que una tarea esté "terminada"? 
+Una tarea se considera finalizada cuando cumple con los siguientes criterios (Definición de Terminado):
+1. El código cumple con el objetivo de la historia de usuario y funciona sin errores.
+2. La funcionalidad fue probada exitosamente simulando un escenario real.
+3. El código quedó guardado en el repositorio remoto de GitHub (commit y push realizados).
